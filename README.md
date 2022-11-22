@@ -8,5 +8,5 @@ This is my custom .bashrc configuration for Bash.
 I setup my environment primarily using the Makefile and passing in the corresponding platform name. As of now the following Makefile targets are supported which runs their respective setup scripts:
 - linux.sh
 - cleanup.sh
-Simply run make <target> to use call the respective scripts.
+Simply run $make <target> to use call the respective scripts.
 
